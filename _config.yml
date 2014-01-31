@@ -1,0 +1,55 @@
+title:            devbeers
+tagline:          Developers + Beers = Aweomesauce
+description:      The official page for devbeers
+#Comment out url when working locally to resolve base urls correctly
+#url: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Heitor Tashiro Sergent
+  avatar:         avatar.png
+  bio:            "Developer Evangelist, Burger Lover"
+  email:          heitor@devbeers.io
+  twitter:        devbeers          
+  instagram:      devbeers     
+  facebook:       devbeers
+  # Plug in your disqus shortname!
+  
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  #- title: About
+  #  url: /about
+  - title: Twitter
+    url: http://twitter.com/devbeers
+    external: true
+  - title: Facebook
+    url: http://facebook.com/devbeers
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+pygments:    true
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
