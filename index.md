@@ -33,3 +33,6 @@ Get in touch with us over [here](mailto:contact@devbeers.io)
 
 ![Heitor]({{ site.url }}/images/heitor.jpg)
 [Heitor Tashiro Sergent](https://twitter.com/heitortsergent) - Mobile developer, Developer Evangelist at SendGrid, Co-founder of Invaders Game Studio, burger/ranch/cheesecake lover.
+
+![Luis]({{ site.url }}/images/cipriani.png)
+[Luis Cipriani](https://twitter.com/lfcipriani) - Computer Scientist, Developer Advocate @ Twitter, Silly Walker.
