@@ -25,7 +25,11 @@ Are you interested in starting a devbeers group in your city? __Send us an [emai
 * [São Paulo](https://www.eventick.com.br/devbeers)
 
 ### Sponsors
-Get in touch with us over [here](mailto:contact@devbeers.io)
+![sendgrid logo]({{ site.url }}/images/sponsors/logo-sendgrid-stack.png)
+![twitter logo]({{ site.url }}/images/sponsors/twitter_logo_blue.png)
+![azk logo]({{ site.url }}/images/sponsors/azk-1299x1299.png)
+
+We're always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
 
 ### Local Organizers
 ![Éverton]({{ site.url }}/images/everton.jpg)
