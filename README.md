@@ -1,3 +1,7 @@
+<p align="center">
+<img align="center" src="awesome-beer.gif" alt="awesome beer gif"/>
+</p>
+
 #devbeers
 This is the website for [devbeers.io](http://devbeers.io), the event where developers meet for a beer to talk about their favorite languages, frameworks, APIs, or anything else.
 
