@@ -22,7 +22,7 @@ Are you interested in starting a devbeers group in your city? __Send us an [emai
 * Fun
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers5" target="_blank">São Paulo</a>
 
 ### Sponsors
 <a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
