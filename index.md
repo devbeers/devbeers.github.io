@@ -22,7 +22,7 @@ Are you interested in starting a devbeers group in your city? __Send us an [emai
 * Fun
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers5" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers6" target="_blank">São Paulo</a>
 
 ### Sponsors
 <a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
@@ -40,3 +40,6 @@ We're always looking for local sponsors! Get in touch with us over [here](mailto
 
 ![Luis]({{ site.url }}/images/cipriani.png)
 <a href="https://twitter.com/lfcipriani" target="_blank">Luis Cipriani</a> - Computer Scientist, Developer Advocate @ Twitter, Silly Walker.
+
+![Thamara]({{ site.url }}/images/thamara.jpg)
+<a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer and Project Manager at BGK, TDD and PHP lover.
