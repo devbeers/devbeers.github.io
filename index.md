@@ -14,6 +14,8 @@ devbeers is an __awesome__ event for __developers__ to __drink beer__, get some 
 
 Every month we'll be at a __different venue and a different date__, so be sure to keep your eyes out. Follow us on <a href="https://twitter.com/devbeers" target="_blank">Twitter</a>, like us on <a href="https://www.facebook.com/devbeers" target="_blank">Facebook</a> or sign up to our mailing list to keep up with the beers.
 
+### devbeers in your city!
+
 Are you interested in starting a devbeers group in your city? __Send us an [email](mailto:contact@devbeers.io)__ and let's chat over a Hangout beer!
 
 If you'd like to get notified about the next events, you can watch the devbeers website repository:
