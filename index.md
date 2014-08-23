@@ -16,13 +16,26 @@ Every month we'll be at a __different venue and a different date__, so be sure t
 
 Are you interested in starting a devbeers group in your city? __Send us an [email](mailto:contact@devbeers.io)__ and let's chat over a Hangout beer!
 
+If you'd like to get notified about the next events, you can watch the devbeers website repository:
+
+<div style="text-align:center;">
+<a href="https://github.com/devbeers/devbeers.github.io" class="github-button" data-icon="octicon-eye" data-count-href="/devbeers/devbeers.github.io/subscribers" data-style="mega">Watch</a>
+</div>
+
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
+
+<br>
+Or subscribe to our mailing list:
+
+{% include sendgrid-subscription-widget.html %}
+
 ### Features
 * Developers
 * Beers
 * Fun
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers6" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers7" target="_blank">São Paulo</a>
 
 ### Sponsors
 <a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
