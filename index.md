@@ -37,7 +37,7 @@ Or subscribe to our mailing list:
 * Fun
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers7" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers9" target="_blank">São Paulo</a>
 
 ### Sponsors
 <a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
