@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /index.html
+permalink: /cities/index.html
 title: Cities
 description: This is the index of cities that you can find a devbeers event happening.
 tags: [about, Jekyll, theme, responsive]

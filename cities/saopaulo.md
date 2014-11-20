@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /saopaulo.html
+permalink: /cities/saopaulo.html
 title: São Paulo
 description: devbeers in São Paulo
 tags: [about, Jekyll, theme, responsive]
