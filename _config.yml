@@ -21,6 +21,11 @@ owner:
 links:
   #- title: About
   #  url: /about
+  - title: Cities
+    url: /cities
+  - title: Github
+    url: http://github.com/devbeers
+    external: true
   - title: Twitter
     url: http://twitter.com/devbeers
     external: true

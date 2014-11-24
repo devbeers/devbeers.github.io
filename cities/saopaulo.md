@@ -9,18 +9,18 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers10" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers10" target="_blank">10th edition</a>
 
 ### Past Events
-* <a href="https://www.eventick.com.br/devbeers9" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers8" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers7" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers6" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers5" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers4" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers3" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers2" target="_blank">São Paulo</a>
-* <a href="https://www.eventick.com.br/devbeers1" target="_blank">São Paulo</a>
+* <a href="https://www.eventick.com.br/devbeers9" target="_blank">9th edition</a>
+* <a href="https://www.eventick.com.br/devbeers8" target="_blank">8th edition</a>
+* <a href="https://www.eventick.com.br/devbeers7" target="_blank">7th edition</a>
+* <a href="https://www.eventick.com.br/devbeers6" target="_blank">6th edition</a>
+* <a href="https://www.eventick.com.br/devbeers5" target="_blank">5th edition</a>
+* <a href="https://www.eventick.com.br/devbeers4" target="_blank">4th edition</a>
+* <a href="https://www.eventick.com.br/devbeers3" target="_blank">3rd edition</a>
+* <a href="https://www.eventick.com.br/devbeers2" target="_blank">2nd edition</a>
+* <a href="https://www.eventick.com.br/devbeers1" target="_blank">1st edition</a>
 
 
 ### Local Organizers
@@ -36,9 +36,9 @@ image:
 ![Thamara]({{ site.url }}/images/thamara.jpg)
 <a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer and Project Manager at BGK, TDD and PHP lover.
 
-### Sponsors
-<a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
-<a href="http://twitter.com/" target="_blank"><img src="/images/sponsors/twitter_logo_blue.png" border="0" alt="Twitter"></a>
-<a href="http://azk.io/" target="_blank"><img src="/images/sponsors/azk-1299x1299.png" border="0" alt="azk"></a>
+### Global Sponsors
+{% include global-sponsors.html %}
+
+### Local Sponsors
 
 We're always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)

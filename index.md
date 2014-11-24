@@ -37,16 +37,18 @@ Or subscribe to our mailing list:
 * Fun
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers9" target="_blank">São Paulo</a>
+* <a href="cities/saopaulo.html">São Paulo</a>
+* <a href="cities/riodejaneiro.html">Rio de Janeiro</a>
+* <a href="cities/belohorizonte.html">Belo Horizonte</a>
 
-### Sponsors
-<a href="http://sendgrid.com/" target="_blank"><img src="/images/sponsors/logo-sendgrid-stack.png" border="0" alt="SendGrid"></a>
-<a href="http://twitter.com/" target="_blank"><img src="/images/sponsors/twitter_logo_blue.png" border="0" alt="Twitter"></a>
-<a href="http://azk.io/" target="_blank"><img src="/images/sponsors/azk-1299x1299.png" border="0" alt="azk"></a>
+### Global Sponsors
+{% include global-sponsors.html %}
 
-We're always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
+### Local Sponsors
 
-### Local Organizers
+Interested in sponsoring? We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
+
+### Creators
 ![Éverton]({{ site.url }}/images/everton.jpg)
 <a href="https://twitter.com/nuxlli" target="_blank">Éverton Ribeiro</a> - Creator of azk, Co-founder of Azuki, programmer of all things.
 
