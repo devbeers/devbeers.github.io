@@ -17,10 +17,7 @@ owner:
   
 
 # Links to include in top navigation
-# For external links add external: true
 links:
-  #- title: About
-  #  url: /about
   - title: Cities
     url: /cities
   - title: Github
