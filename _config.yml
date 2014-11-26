@@ -9,15 +9,17 @@ owner:
   name:           Heitor Tashiro Sergent
   avatar:         avatar.png
   bio:            "Developer Evangelist, Burger Lover"
-  email:          heitor@devbeers.io
-  twitter:        devbeers          
-  instagram:      devbeers     
+  email:          contact@devbeers.io
+  twitter:        devbeers
+  instagram:      devbeers
   facebook:       devbeers
   # Plug in your disqus shortname!
   
 
 # Links to include in top navigation
 links:
+  - title: Blog
+    url: /blog
   - title: Cities
     url: /cities
   - title: Github
