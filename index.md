@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-description:
+title: Hello World
+description: 
 image:
   feature: beers.jpg
 ---

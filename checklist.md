@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-description:
+title: Checklist
+description: Checklist for Organizers
 image:
   feature: beers.jpg
 ---
