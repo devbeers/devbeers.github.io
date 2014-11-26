@@ -22,6 +22,8 @@ links:
     url: /blog
   - title: Cities
     url: /cities
+  - title: Jobs
+    url: /jobs.html
   - title: Github
     url: http://github.com/devbeers
     external: true
