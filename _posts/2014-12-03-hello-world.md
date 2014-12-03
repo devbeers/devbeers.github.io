@@ -16,7 +16,7 @@ Amanhã é nossa última edição de Dezembro, e queremos hoje começar nosso bl
 
 - [1 vídeo em slow-motion](https://www.youtube.com/watch?v=ZtWCm8Tb_Zg)
 - 12 eventos
-- 35 commits (nosso site fica no GitHub :D)
+- 40 commits (nosso site fica no GitHub :D)
 - 558 pessoas diferentes cadastradas
 - 1.000.000 litros de cerveja (mentira, não conseguimos contar)
 
