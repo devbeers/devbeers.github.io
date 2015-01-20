@@ -3,7 +3,14 @@
 </p>
 
 #devbeers
+
 This is the website for [devbeers.io](http://devbeers.io), the event where developers meet for a beer, and to talk about their favorite languages, frameworks, APIs, or whatever else comes to mind.
+
+To run it:
+
+```bash
+$ bundle exec jekyll serve
+```
 
 ### Balzac for Jekyll by ColeTownsend
 
