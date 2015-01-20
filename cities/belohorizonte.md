@@ -29,4 +29,4 @@ Coming soon!
     <a href="http://www.toptal.com/" target="_blank"><img class="sponsor-logo" src="/images/sponsors/toptal-logo.png" border="0" alt="Toptal"></a>
 </div>
 
-We’re always looking for local sponsors! Get in touch with us over here [here](mailto:contact@devbeers.io)
+We’re always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
