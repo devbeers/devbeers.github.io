@@ -15,7 +15,8 @@ Coming soon!
 * <a href="https://www.eventick.com.br/devbeersrj1" target="_blank">1st edition</a>
 
 ### Local Organizers
-Looking for local organizers!
+![Giovanni Keppelen](http://gravatar.com/avatar/8f5c490b5b30ac6d655eced70cea4e5f.png?size=230)
+<a href="https://twitter.com/keppelen" target="_blank">Giovanni Keppelen</a> - Front-end Engineer and CTO at Planedia.
 
 ### Global Sponsors
 {% include global-sponsors.html %}
