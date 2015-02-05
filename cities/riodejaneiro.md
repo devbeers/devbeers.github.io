@@ -18,6 +18,9 @@ Coming soon!
 ![Giovanni Keppelen](http://gravatar.com/avatar/8f5c490b5b30ac6d655eced70cea4e5f.png?size=230)
 <a href="https://twitter.com/keppelen" target="_blank">Giovanni Keppelen</a> - Front-end Engineer and CTO at Planedia.
 
+![Walmyr Carvalho](https://gravatar.com/avatar/b567f69eed037ed20536fc825305a38d.png?size=230)
+<a href="https://twitter.com/walmyrcarvalho" target="_blank">Walmyr Carvalho</a> - Senior Android Developer at Hotel Urbano.
+
 ### Global Sponsors
 {% include global-sponsors.html %}
 
