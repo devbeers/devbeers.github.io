@@ -60,4 +60,4 @@ Interested in sponsoring? We're always looking for global and local sponsors! Ge
 <a href="https://twitter.com/lfcipriani" target="_blank">Luis Cipriani</a> - Computer Scientist, Developer Advocate @ Twitter, Silly Walker.
 
 ![Thamara]({{ site.url }}/images/thamara.jpg)
-<a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer and Project Manager at BGK, TDD and PHP lover.
+<a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer at EasyTaxi and PHP lover.
