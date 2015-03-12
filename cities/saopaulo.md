@@ -36,6 +36,9 @@ image:
 ![Thamara]({{ site.url }}/images/thamara.jpg)
 <a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer and Project Manager at BGK, TDD and PHP lover.
 
+![Igor]({{ site.url }}/images/igor.jpg)
+<a href="https://twitter.com/igor_c_ferreira" target="_blank">Igor Ferreira</a> - Mobile developer, Smart watch user, IoT rooter, whovian and beer lover.
+
 ### Global Sponsors
 {% include global-sponsors.html %}
 
