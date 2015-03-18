@@ -8,10 +8,14 @@ image:
   feature: beers.jpg
 ---
 
+### Next Event
+* <a href="http://www.eventick.com.br/devbeers-sp-14" target="_blank">14th edition</a>
+
 ### Cities
 * <a href="saopaulo.html">São Paulo</a>
 * <a href="riodejaneiro.html">Rio de Janeiro</a>
 * <a href="belohorizonte.html">Belo Horizonte</a>
+* <a href="cuiaba.html">Cuiabá</a>
 
 ### devbeers in your city!
 
