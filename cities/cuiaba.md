@@ -9,14 +9,17 @@ image:
 ---
 
 ### Next Event
+Coming soon!
+
+### Past Events
 * <a href="http://www.eventick.com.br/devbeers-cba-01" target="_blank">1st edition</a>
 
 ### Local Organizers
 ![Gabriel Pedro]({{ site.url }}/images/gpedro.jpg)
-<a href="https://twitter.com/gpedro_" target="_blank">Gabriel Pedro</a> - Full-Stack Developer at RCF Inovações
+<a href="https://twitter.com/gpedro_" target="_blank">Gabriel Pedro</a> - Full-Stack Developer at RCF Inovações.
 
 ![Juarez Filho]({{ site.url }}/images/juarez.jpg)
-<a href="https://twitter.com/juarezpaf" target="_blank">Juarez Filho</a> - Front end Engineer at tmadewithlove
+<a href="https://twitter.com/juarezpaf" target="_blank">Juarez Filho</a> - Front end Engineer at madewithlove.
 
 ### Global Sponsors
 {% include global-sponsors.html %}
