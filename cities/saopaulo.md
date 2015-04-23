@@ -48,5 +48,6 @@ image:
 {% include global-sponsors.html %}
 
 ### Local Sponsors
+{% include saopaulo-local-sponsors.html %}
 
 We're always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
