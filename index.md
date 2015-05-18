@@ -46,8 +46,14 @@ Or subscribe to our mailing list:
 {% include global-sponsors.html %}
 
 ### Local Sponsors
+{% include local-sponsors.html %}
 
-Interested in sponsoring? We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
+### Past Sponsors
+{% include past-sponsors.html %}
+
+### Interested in Sponsoring?
+
+We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
 
 ### Creators
 ![Éverton]({{ site.url }}/images/everton.jpg)
