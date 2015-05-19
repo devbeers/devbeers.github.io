@@ -21,6 +21,9 @@ Coming soon!
 ![Bruno Pulis]({{ site.url }}/images/brunopulis.jpg)
 <a href="https://twitter.com/brunopulis" target="_blank">Bruno Pulis</a> - Frontend Developer and Accessibility Advocate.
 
+![Paula Faria]({{ site.url }}/images/paulafaria.jpg)
+<a href="https://twitter.com/paulahfaria" target="_blank">Paula Faria</a> - Frontend Developer at Plan B Comunicação.
+
 ### Global Sponsors
 {% include global-sponsors.html %}
 
