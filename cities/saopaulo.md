@@ -9,9 +9,10 @@ image:
 ---
 
 ### Next Event
-* <a href="http://www.eventick.com.br/devbeers-sp-16" target="_blank">16th edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-17" target="_blank">17th edition</a>
 
 ### Past Events
+* <a href="http://www.eventick.com.br/devbeers-sp-16" target="_blank">16th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-15" target="_blank">15th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-14" target="_blank">14th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-13" target="_blank">13th edition</a>
