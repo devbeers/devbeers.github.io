@@ -21,6 +21,9 @@ image:
 ![Walmyr Carvalho](https://gravatar.com/avatar/b567f69eed037ed20536fc825305a38d.png?size=230)
 <a href="https://twitter.com/walmyrcarvalho" target="_blank">Walmyr Carvalho</a> - Senior Android Developer at Hotel Urbano.
 
+![Douglas Fischer](https://gravatar.com/avatar/928242df5a3e58015d42a534cd3c49a8.png?size=230)
+<a href="https://twitter.com/dougdiskin" target="_blank">Douglas Fischer</a> - Mobile Tech Lead at <a href="http://abacomm.com.br.com.br" targe="_blank">Abacomm</a>.
+
 ### Global Sponsors
 {% include global-sponsors.html %}
 
