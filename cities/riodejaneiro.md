@@ -29,5 +29,6 @@ To be announced!
 {% include global-sponsors.html %}
 
 ### Local Sponsors
+{% include riodejaneiro-local-sponsors.html %}
 
 Interested in sponsoring? We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
