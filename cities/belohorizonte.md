@@ -28,8 +28,6 @@ Coming soon!
 {% include global-sponsors.html %}
 
 ### Local Sponsors
-<div class="sponsors">
-    <a href="http://www.toptal.com/" target="_blank"><img class="sponsor-logo" src="/images/sponsors/local-sponsors/toptal-logo.png" border="0" alt="Toptal"></a>
-</div>
+{% include belohorizonte-local-sponsors.html %}
 
 We’re always looking for local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
