@@ -956,7 +956,22 @@ footer {
 
 img.sponsor-logo {
   display: inline;
-  margin: 55px 20px; }
+  margin: 55px 20px; 
+}
+
+img.local-sponsor-logo {
+  display: inline;
+  margin: 60px 28px; 
+}
+
+img.past-sponsor-logo {
+	display: inline;
+  margin: 60px 28px; 
+}
+
+.sponsors, .local-sponsors, .past-sponsors {
+  text-align: center;
+}
 
 .share {
   margin-top: 15px !important;
