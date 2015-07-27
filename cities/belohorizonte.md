@@ -9,7 +9,13 @@ image:
 ---
 
 ### Next Event
-Coming soon!
+* <a href="http://www.meetup.com/devbeers-Belo-Horizonte/events/223899931/" target="_blank">5th edition</a>
+
+### Past Events
+* <a href="http://www.meetup.com/devbeers-Belo-Horizonte/events/223323294/" target="_blank">4th edition</a>
+* <a href="http://www.meetup.com/devbeers-Belo-Horizonte/events/222639182/" target="_blank">3rd edition</a>
+* <a href="http://www.meetup.com/devbeers-Belo-Horizonte/events/221094668/" target="_blank">2nd edition</a>
+* <a href="http://www.meetup.com/devbeers-Belo-Horizonte/events/220241355/" target="_blank">1st edition</a>
 
 ### Local Organizers
 ![Beto Muniz]({{ site.url }}/images/betomuniz.jpg)
