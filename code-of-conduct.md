@@ -23,7 +23,7 @@ Harassment includes offensive verbal comments related to gender, gender identity
 
 Organizers and sponsors are also subject to the anti-harassment policy. In particular, both should not use sexualized images, activities, or other material. Also, they should not use sexualized clothing or otherwise create a sexualized environment.
 
-If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately. Event staff can be identified by T-shirts.
+If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately.
 
 Event staff will be happy to help participants contact security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
 
@@ -45,7 +45,7 @@ Constrangimentos incluem comentários ofensivos relacionados a gênero, identida
 
 Organizadores e patrocinadores do evento também estão sujeitos à política de prevenção de constrangimento. Em especial, ambos não deverão usar imagens, atividades ou materiais sexualizados. Além disso, ambos não deverão usar roupas sexualizadas ou criar um ambiente sexualizado.
 
-Se um participante apresentar comportamentos constrangedores, os organizadores do evento podem tomar quaisquer ações a seu critério, incluindo alertar o ofensor ou expulsá-lo do evento sem reembolso. Se você estiver sendo constrangido, perceber que alguém está sendo constrangido, ou tiver outras preocupações, favor entrar em contato com um membro da organização imediatamente. A equipe da organização do evento pode ser identificada por camisetas.
+Se um participante apresentar comportamentos constrangedores, os organizadores do evento podem tomar quaisquer ações a seu critério, incluindo alertar o ofensor ou expulsá-lo do evento sem reembolso. Se você estiver sendo constrangido, perceber que alguém está sendo constrangido, ou tiver outras preocupações, favor entrar em contato com um membro da organização imediatamente.
 
 A equipe da organização do evento se disponibiliza a ajudar participantes a entrarem em contato com a polícia local, providenciar escolta ou ajudar os que estiverem sendo constrangidos a se sentirem seguros durante a evento. Nós contamos com a sua participação.
 
