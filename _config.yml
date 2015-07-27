@@ -18,6 +18,8 @@ owner:
 
 # Links to include in top navigation
 links:
+  - title: Code of Conduct
+    url: /code-of-conduct.html
   - title: Blog
     url: /blog
   - title: Cities
