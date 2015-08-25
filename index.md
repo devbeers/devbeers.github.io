@@ -6,7 +6,7 @@ image:
   feature: beers.jpg
 ---
 
-![devbeers logo]({{ site.url }}/images/devbeerslogo-4096x3112.png)
+![devbeers logo]({{ site.url }}/images/devbeerslogo.png )
 
 devbeers is an __awesome__ event for __developers__ to __drink beer__, get some time away from the keyboard, and talk about your __favorite language, IDE or API__. 
 

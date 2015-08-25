@@ -3,3 +3,4 @@ config.codekit
 .bundle
 .sass-cache
 .idea
+Gemfile.lock
