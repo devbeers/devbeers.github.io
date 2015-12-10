@@ -9,12 +9,12 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers-rj-3" target="_blank">3rd edition</a>
+* <a href="https://www.eventick.com.br/devbeers-rj-4" target="_blank">4th edition</a>
 
 ### Past Events
+* <a href="https://www.eventick.com.br/devbeers-rj-3" target="_blank">3rd edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-2" target="_blank">2nd edition</a>
 * <a href="https://www.eventick.com.br/devbeersrj1" target="_blank">1st edition</a>
-* <a href="https://www.eventick.com.br/devbeers-rj-2" target="_blank">2nd edition</a>
 
 ### Local Organizers
 ![Giovanni Keppelen](http://gravatar.com/avatar/8f5c490b5b30ac6d655eced70cea4e5f.png?size=230)
