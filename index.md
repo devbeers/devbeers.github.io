@@ -47,8 +47,9 @@ Or subscribe to our mailing list:
 
 ### Next Event
 * <a href="cities/saopaulo.html">São Paulo</a>
-* <a href="cities/riodejaneiro.html">Rio de Janeiro</a>
 * <a href="cities/belohorizonte.html">Belo Horizonte</a>
+* <a href="cities/riodejaneiro.html">Rio de Janeiro</a>
+* <a href="cities/fortaleza.html">Fortaleza</a>
 
 ### Global Sponsors
 {% include global-sponsors.html %}
