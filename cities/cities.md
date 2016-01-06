@@ -10,8 +10,9 @@ image:
 
 ### Cities
 * <a href="saopaulo.html">São Paulo</a>
-* <a href="riodejaneiro.html">Rio de Janeiro</a>
 * <a href="belohorizonte.html">Belo Horizonte</a>
+* <a href="riodejaneiro.html">Rio de Janeiro</a>
+* <a href="fortaleza.html">Fortaleza</a>
 
 ### devbeers in your city!
 
