@@ -12,6 +12,7 @@ image:
 * <a href="saopaulo.html">São Paulo</a>
 * <a href="riodejaneiro.html">Rio de Janeiro</a>
 * <a href="belohorizonte.html">Belo Horizonte</a>
+* <a href="cuiaba.html">Cuiabá</a>
 
 ### devbeers in your city!
 
