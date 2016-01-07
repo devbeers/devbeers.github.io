@@ -8,5 +8,9 @@ image:
   feature: beers.jpg
 ---
 
+### Organizer Resources
+[Organizer's Guide Gitbook](https://www.gitbook.com/book/heitortsergent/devbeers-guia-do-organizador/details)
+[Organizer's Guide GitHub Repository](https://github.com/devbeers/organizers-guide)
+
 ### Brand Resources
 [Brandfolder](http://brand.devbeers.io)
