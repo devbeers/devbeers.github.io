@@ -10,6 +10,8 @@ image:
 
 ### Next Event
 
+* <a href="http://www.eventick.com.br/devbeers-ce-1" target="_blank">1st edition</a>
+
 ### Past Events
 
 
