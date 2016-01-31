@@ -21,14 +21,14 @@ image:
 ![Beto Muniz]({{ site.url }}/images/betomuniz.jpg)
 <a href="https://twitter.com/obetomuniz" target="_blank">Beto Muniz</a> - Front-End Engineer at HE:labs and A Web Components Hero.
 
-![Luri Mendes]({{ site.url }}/images/lurimendes.png)
-<a href="https://twitter.com/lurimendes" target="_blank">Luri Mendes</a> - Web Developer and Community Leader at Toptal and Design lover.
-
 ![Bruno Pulis]({{ site.url }}/images/brunopulis.jpg)
 <a href="https://twitter.com/brunopulis" target="_blank">Bruno Pulis</a> - Frontend Developer and Accessibility Advocate.
 
 ![Paula Faria]({{ site.url }}/images/paulafaria.jpg)
 <a href="https://twitter.com/paulahfaria" target="_blank">Paula Faria</a> - Frontend Developer at Plan B Comunicação.
+
+![Tiago Porto]({{ site.url }}/images/tiagoporto.png)
+<a href="https://twitter.com/_tiagoporto" target="_blank">Tiago Porto</a> - Front-End Developer, Beer Freak and Travel Buff.
 
 ### Global Sponsors
 {% include global-sponsors.html %}
