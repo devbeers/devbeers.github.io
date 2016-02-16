@@ -9,10 +9,9 @@ image:
 ---
 
 ### Next Event
-
+* <a href="http://www.eventick.com.br/devbeers-ce-2" target="_blank">2nd edition</a>
 
 ### Past Events
-
 * <a href="http://www.eventick.com.br/devbeers-ce-1" target="_blank">1st edition</a>
 
 ### Local Organizers

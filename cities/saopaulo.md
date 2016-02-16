@@ -9,9 +9,15 @@ image:
 ---
 
 ### Next Event
-* <a href="http://www.eventick.com.br/devbeers-sp-18" target="_blank">18th edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-24" target="_blank">24th edition</a>
 
 ### Past Events
+* <a href="http://www.eventick.com.br/devbeers-sp-23" target="_blank">23rd edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-22" target="_blank">22nd edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-21" target="_blank">21st edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-20" target="_blank">20th edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-19" target="_blank">19th edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-18" target="_blank">18th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-17" target="_blank">17th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-16" target="_blank">16th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-15" target="_blank">15th edition</a>
