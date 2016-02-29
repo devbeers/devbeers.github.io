@@ -1,6 +1,6 @@
 title:            devbeers
-tagline:          Developers + Beers = Aweomesauce
-description:      The official page for devbeers
+tagline:          Helping unite the developer community
+description:      devbeers Hello World!
 #Comment out url when working locally to resolve base urls correctly
 #url: http://localhost:4000
 
@@ -18,14 +18,15 @@ owner:
 
 # Links to include in top navigation
 links:
-  - title: Code of Conduct
-    url: /codeofconduct
-  - title: Blog
-    url: https://medium.com/devbeers-news
   - title: Cities
     url: /cities
+  - title: Code of Conduct
+    url: /codeofconduct
   - title: Jobs
     url: /jobs.html
+  - title: Blog
+    url: https://medium.com/devbeers-news
+    external: true
   - title: Github
     url: http://github.com/devbeers
     external: true
@@ -47,7 +48,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers: 
