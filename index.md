@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Hello World
 description: devbeers Hello World
 image:
