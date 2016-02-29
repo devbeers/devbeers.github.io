@@ -6,7 +6,7 @@ image:
   feature: beers.jpg
 ---
 
-![devbeers logo]({{ site.url }}/images/devbeerslogo.png )
+![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo.png )
 
 ### Checklist for running a devbeers
 
