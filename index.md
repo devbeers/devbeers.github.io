@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-description: The official page for devbeers
+description: devbeers Hello World
 image:
   feature: beers.jpg
 ---
