@@ -728,7 +728,7 @@ footer {
   footer .prev-posts {
     display: inline;
     float: left;
-    width: 57.0%;
+    width: 57%;
     margin: 0 1.5%;
     max-width: 600px;
     min-height: 250px;
@@ -951,28 +951,41 @@ footer {
 .sendgrid-subscription-widget input[type="submit"]:hover {
   background-color: #f6b33d; }
 
-.sponsors {
+.global-sponsors {
   text-align: center; }
 
 img.global-sponsor-logo {
   display: inline;
-  margin: 55px 20px; 
-}
+  margin: 55px 20px; }
 
 img.local-sponsor-logo {
   display: inline;
-  margin: 60px 28px; 
-}
+  margin: 60px 28px; }
 
 img.past-sponsor-logo {
-	display: inline;
-  margin: 60px 28px; 
-}
+  display: inline;
+  margin: 60px 28px; }
 
 .global-sponsors, .local-sponsors, .past-sponsors {
-  text-align: center;
-}
+  text-align: center; }
 
 .share {
   margin-top: 15px !important;
   margin-bottom: 15px !important; }
+
+header.site-header {
+  background-color: #FFC107;
+  position: relative; }
+  header.site-header hgroup a, header.site-header nav ul li a {
+    color: #000 !important; }
+    header.site-header hgroup a:hover, header.site-header nav ul li a:hover {
+      color: #FFF !important; }
+
+@media only screen and (max-width: 680px) {
+  header.site-header {
+    margin-top: 0;
+    padding: 20px 0; }
+    header.site-header a.menu {
+      color: black; } }
+
+/*# sourceMappingURL=i.css.map */

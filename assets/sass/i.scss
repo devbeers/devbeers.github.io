@@ -74,3 +74,24 @@ img.past-sponsor-logo {
 	margin-top: 15px !important;
 	margin-bottom: 15px !important;
 }
+
+header.site-header {
+	background-color: #FFC107;
+	position: relative;
+	hgroup a, nav ul li a {
+		color: #000 !important;
+		&:hover {
+			color: #FFF !important;
+		}
+	}
+}
+
+@media only screen and (max-width : 680px) {     
+  header.site-header {
+    margin-top: 0;
+    padding: 20px 0;
+		a.menu {
+			color: black;
+		}
+  }
+}
