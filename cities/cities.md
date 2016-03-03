@@ -27,6 +27,3 @@ If you'd like to get notified about the next events, you can watch the devbeers 
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
 <br>
-Or subscribe to our mailing list:
-
-{% include subscription-widget.html %}

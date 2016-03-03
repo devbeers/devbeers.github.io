@@ -34,10 +34,6 @@ If you'd like to get notified about the next events, you can watch the devbeers 
 
 <br>
 
-Or subscribe to our mailing list:
-
-{% include subscription-widget.html %}
-
 ### Features
 * Developers
 * Beers
