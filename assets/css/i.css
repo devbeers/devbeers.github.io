@@ -981,8 +981,15 @@ header.site-header {
     header.site-header hgroup a:hover, header.site-header nav ul li a:hover {
       color: #FFF !important; }
 
-.article .overlay {
-  background: rgba(40, 30, 0, 0.8); }
+.featured-image {
+  display: table; }
+
+.header-content {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle; }
+  .header-content img {
+    height: 125px; }
 
 @media only screen and (max-width: 680px) {
   header.site-header {

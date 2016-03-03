@@ -86,8 +86,17 @@ header.site-header {
 	}
 }
 
-.article .overlay {
-	background: rgba(40, 30, 0, 0.8);
+.featured-image {
+	display: table;
+}
+
+.header-content {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+	img {
+	  height: 125px;
+	}
 }
 
 @media only screen and (max-width : 680px) {     
