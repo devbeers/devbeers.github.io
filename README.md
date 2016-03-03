@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="awesome-beer.gif" alt="awesome beer gif"/>
+<img align="center" src="/images/logos/devbeers/devbeerslogo-4096x3112.png" alt="devbeers logo"/ width="200">
 </p>
 
 #devbeers
@@ -14,6 +14,6 @@ To run it:
 $ bundle exec jekyll serve
 ```
 
-### Balzac for Jekyll by ColeTownsend
+### Theme
 
-This is forked from [ColeTownsend](https://github.com/ColeTownsend/Balzac-for-Jekyll), that was forked from [minimal mistakes](http://mademistakes.com). Send him a shout out at [@twnsndco](https://twitter.com/twnsndco).
+The theme we are using is Balzac for Jekyll by ColeTownsend. This is forked from [ColeTownsend](https://github.com/ColeTownsend/Balzac-for-Jekyll), that was forked from [minimal mistakes](http://mademistakes.com). If you like it, send him a shout out at [@twnsndco](https://twitter.com/twnsndco).
