@@ -20,19 +20,20 @@ Want to talk about Ruby, Python, Javascript, Node, Go, C#, PHP, Java, Objective-
 
 Every month we'll be at a __different venue and a different date__, so be sure to keep your eyes out. Follow us on <a href="https://twitter.com/devbeers" target="_blank">Twitter</a>, like us on <a href="https://www.facebook.com/devbeers" target="_blank">Facebook</a> or sign up to our mailing list to keep up with the beers.
 
-### devbeers in your city!
+### Newsletter and invites
 
-Are you interested in starting a devbeers group in your city? __Send us an [email](mailto:contact@devbeers.io)__ and let's chat over a Hangout beer!
+Signup to our newsletter or city invites by clicking <a href="https://devbeers.typeform.com/to/VtZouF" target="_blank">here</a>.
 
-If you'd like to get notified about the next events, you can watch the devbeers website repository:
+You can also watch the devbeers website repository:
 
 <div style="text-align:center;">
 <a href="https://github.com/devbeers/devbeers.github.io" class="github-button" data-icon="octicon-eye" data-count-href="/devbeers/devbeers.github.io/subscribers" data-style="mega">Watch</a>
 </div>
-
 <script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
 
-<br>
+### devbeers in your city!
+
+Are you interested in starting a devbeers group in your city? __Send us an [email](mailto:contact@devbeers.io)__ and let's chat over a Hangout beer!
 
 ### Features
 * Developers
