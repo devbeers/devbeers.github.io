@@ -59,15 +59,6 @@ Are you interested in starting a devbeers group in your city? __Send us an [emai
 
 We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
 
-### Creators
-![Éverton]({{ site.url }}/images/everton.jpg)
-<a href="https://twitter.com/nuxlli" target="_blank">Éverton Ribeiro</a> - Creator of azk, Co-founder of Azuki, programmer of all things.
+### Team
 
-![Heitor]({{ site.url }}/images/heitor.jpg)
-<a href="https://twitter.com/heitortsergent" target="_blank">Heitor Tashiro Sergent</a> - Mobile developer, Developer Evangelist at SendGrid, Co-founder of Invaders Game Studio, burger/ranch/cheesecake lover.
-
-![Luis]({{ site.url }}/images/cipriani.png)
-<a href="https://twitter.com/lfcipriani" target="_blank">Luis Cipriani</a> - Computer Scientist, Developer Advocate @ Twitter, Silly Walker.
-
-![Thamara]({{ site.url }}/images/thamara.jpg)
-<a href="https://twitter.com/thamarahessel" target="_blank">Thamara Hessel</a> - Developer at EasyTaxi and PHP lover.
+{% include team.html %}
