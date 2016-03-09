@@ -5,7 +5,7 @@ title: Belo Horizonte
 description: devbeers in Belo Horizonte
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: belohorizonte.jpg
+  feature: belohorizonte.png
 ---
 
 ### Next Event

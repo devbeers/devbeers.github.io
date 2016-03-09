@@ -5,7 +5,7 @@ title: About devbeers
 description: More information about devbeers.
 tags: [about, devbeers, information]
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ### Organizer Resources

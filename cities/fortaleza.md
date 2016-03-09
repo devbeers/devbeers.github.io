@@ -5,7 +5,7 @@ title: Fortaleza
 description: devbeers in Fortaleza
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ### Next Event

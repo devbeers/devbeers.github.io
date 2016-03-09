@@ -3,9 +3,16 @@
 <section class="article">
 
   <div>
-    <div class="featured-image" style="background-image: url({{ site.url }}/images/beers-3.png)">
+    {% if page.image.feature %}
+    <div class="home featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+    {% else %}
+    <div class="home featured-image" style="background-image: url({{ site.url }}/images/beers.png)">
+    {% endif %}
       <div class="header-content">
-        <img src="/images/logos/devbeers/devbeers-white-transparent.png" />
+        <img src="/images/logos/devbeers/devbeers-white-transparent-1000x628.png" />
+        <h1>
+          {{page.description}}
+        </h1>
       </div>
     </div>
   </div>
@@ -15,8 +22,6 @@
     <header class="post-header">
       <hgroup>
         <h1>{{page.title}}</h1>
-        <p class="date">{{page.date | date: "%b %d, %Y" }}</p>
-        <p class="intro">{% if page.description %}{{ page.description }}{% else %}{{ page.tagline }}{% endif %}</p>
       </hgroup>
     </header>
 

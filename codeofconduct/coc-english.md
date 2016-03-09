@@ -4,7 +4,7 @@ permalink: /codeofconduct/coc-english.html
 title: Code of Conduct - English
 description: Code of Conduct in English for devbeers
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo-4096x3112.png)

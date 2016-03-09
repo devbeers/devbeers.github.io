@@ -3,7 +3,7 @@ layout: post
 title: Checklist
 description: Checklist for Organizers
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo.png )

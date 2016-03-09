@@ -4,7 +4,7 @@ permalink: /codeofconduct/index.html
 title: Code of Conduct
 description: Code of Conduct for devbeers
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo-4096x3112.png)

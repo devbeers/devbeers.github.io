@@ -2,6 +2,8 @@
 layout: home
 title: Hello World
 description: Bringing the developer community together
+image:
+  feature: beers.png
 ---
 
 ![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo.png )

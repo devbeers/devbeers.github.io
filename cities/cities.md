@@ -5,7 +5,7 @@ title: Cities
 description: This is the index of cities that you can find a devbeers event happening.
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ### Cities

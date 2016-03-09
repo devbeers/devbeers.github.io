@@ -5,7 +5,7 @@ title: Rio de Janeiro
 description: devbeers in Rio de Janeiro
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ### Next Event

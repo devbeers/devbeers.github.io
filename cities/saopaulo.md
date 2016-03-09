@@ -5,7 +5,7 @@ title: São Paulo
 description: devbeers in São Paulo
 tags: [about, Jekyll, theme, responsive]
 image:
-  feature: beers.jpg
+  feature: beers.png
 ---
 
 ### Next Event
