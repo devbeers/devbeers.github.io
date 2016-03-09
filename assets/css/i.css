@@ -922,35 +922,6 @@ footer {
 
   small {
     font-size: 12px; } }
-.sendgrid-subscription-widget form {
-  text-align: center; }
-
-.sendgrid-subscription-widget label {
-  text-align: left; }
-
-.sendgrid-subscription-widget label > span {
-  font-weight: 100 !important;
-  font-size: 22px;
-  margin: 10px 0; }
-
-.sendgrid-subscription-widget input {
-  width: 100%;
-  height: 40px;
-  margin: 10px 0 !important;
-  border-color: black;
-  border-width: 2px;
-  border-style: inset;
-  font-size: 18px;
-  padding: 0 10px; }
-
-.sendgrid-subscription-widget input[type="submit"] {
-  font-size: 16px;
-  max-width: 100px;
-  background-color: #ffc669; }
-
-.sendgrid-subscription-widget input[type="submit"]:hover {
-  background-color: #f6b33d; }
-
 .global-sponsors {
   text-align: center; }
 
@@ -981,15 +952,25 @@ header.site-header {
     header.site-header hgroup a:hover, header.site-header nav ul li a:hover {
       color: #FFF !important; }
 
-.featured-image {
+.article .featured-image, .article .home.featured-image {
   display: table; }
+.article .home.featured-image {
+  min-height: 500px; }
 
 .header-content {
   display: table-cell;
   text-align: center;
   vertical-align: middle; }
   .header-content img {
-    height: 125px; }
+    height: 180px; }
+  .header-content h1 {
+    color: white;
+    font-family: "Montserrat","Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    margin-top: 20px; }
+
+.home .header-content h1 {
+  font-size: 48px; }
 
 @media only screen and (max-width: 680px) {
   header.site-header {
