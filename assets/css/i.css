@@ -970,6 +970,22 @@ header.site-header {
 .home .header-content h1 {
   font-size: 48px; }
 
+.team-member {
+  text-align: center;
+  margin: 10px; }
+  .team-member a {
+    width: 30px;
+    display: block;
+    margin: 0 auto; }
+  .team-member p {
+    margin-bottom: 0px; }
+
+.social-icons {
+  display: inherit;
+  margin: 0 auto; }
+  .social-icons a {
+    margin: 0px 10px; }
+
 @media only screen and (max-width: 680px) {
   header.site-header {
     margin-top: 0;
