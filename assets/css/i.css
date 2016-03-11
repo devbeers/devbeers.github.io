@@ -922,23 +922,22 @@ footer {
 
   small {
     font-size: 12px; } }
-.global-sponsors {
-  text-align: center; }
-
-img.global-sponsor-logo {
-  display: inline;
-  margin: 55px 20px; }
-
-img.local-sponsor-logo {
-  display: inline;
-  margin: 60px 28px; }
-
-img.past-sponsor-logo {
-  display: inline;
-  margin: 60px 28px; }
-
 .global-sponsors, .local-sponsors, .past-sponsors {
   text-align: center; }
+  .global-sponsors .col-xs, .local-sponsors .col-xs, .past-sponsors .col-xs {
+    margin: auto; }
+
+img.global-sponsors {
+  display: inline;
+  margin: 60px 28px;
+  max-width: 200px;
+  max-height: 200px; }
+
+.local-sponsors img, .past-sponsors img {
+  display: inline;
+  margin: 60px 28px;
+  max-width: 130px;
+  max-height: 130px; }
 
 .share {
   margin-top: 15px !important;
@@ -956,6 +955,9 @@ header.site-header {
   display: table; }
 .article .home.featured-image {
   min-height: 500px; }
+
+.post {
+  max-width: 724px; }
 
 .header-content {
   display: table-cell;

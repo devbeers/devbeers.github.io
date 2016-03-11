@@ -12,27 +12,27 @@
 // Remove the definition below for a pixel-based layout
 $total-width: 100%;
 
-.global-sponsors {
-	text-align: center;
-}
-
-img.global-sponsor-logo {
-  display: inline;
-  margin: 55px 20px; 
-}
-
-img.local-sponsor-logo {
-	display: inline;
-  margin: 60px 28px; 
-}
-
-img.past-sponsor-logo {
-	display: inline;
-  margin: 60px 28px; 
-}
-
 .global-sponsors, .local-sponsors, .past-sponsors {
   text-align: center;
+	.col-xs {
+		margin: auto;
+	}
+}
+
+img.global-sponsors {
+	display: inline;
+	margin: 60px 28px;
+	max-width: 200px;
+	max-height: 200px;
+}
+
+.local-sponsors, .past-sponsors {
+	img {
+		display: inline;
+	  margin: 60px 28px; 
+		max-width: 130px;
+		max-height: 130px;
+	}
 }
 
 .share {
@@ -58,6 +58,10 @@ header.site-header {
 	.home.featured-image {
 		min-height: 500px;
 	}
+}
+
+.post {
+	max-width: 724px;
 }
 
 .header-content {
