@@ -24,15 +24,7 @@ Every month we'll be at a __different venue and a different date__, so be sure t
 * <a href="cities/riodejaneiro.html">Rio de Janeiro</a>
 * <a href="cities/fortaleza.html">Fortaleza</a>
 
-### Newsletter and invites
-
-Signup to our newsletter or city invites by clicking <a href="https://devbeers.typeform.com/to/VtZouF" target="_blank">here</a>.
-
-You can also watch the devbeers website repository <a href="https://github.com/devbeers/devbeers.github.io" target="_blank">here</a>.
-
-### devbeers in your city!
-
-Are you interested in starting a devbeers group in your city? __Send us an [email](mailto:contact@devbeers.io)__ and let's chat over a Hangout beer!
+{% include new-editions.md %}
 
 ### Global Sponsors
 {% include global-sponsors.html %}
@@ -45,7 +37,7 @@ Are you interested in starting a devbeers group in your city? __Send us an [emai
 
 ### Interested in Sponsoring?
 
-We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io)
+We're always looking for global and local sponsors! Get in touch with us over [here](mailto:contact@devbeers.io).
 
 ### Team
 
