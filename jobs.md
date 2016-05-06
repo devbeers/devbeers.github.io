@@ -52,5 +52,5 @@ Pluga connects the web applications your company uses the most, empowering non-t
 
 - Position: Experienced Ruby Developer - Freelancer
 - Skills:	Ruby / Solid / TDD(BDD) / Metaprogramming / API
-- Description: We are looking for a Ruby Developer freelancer with +3 years of experience to contribute on our Pluga API project. It is essential that this person has worked on other Ruby projects using techniques such as principles of SOLID, TDD (BDD) and has contributed to any API creation. We love detail-oriented people who uses the best practices to building (clean) code. Learn more and Apply to position at link below.
+- Description: We are looking for a Ruby Developer freelancer with +3 years of experience to contribute on our Pluga API project. It is essential that this person has worked on other Ruby projects using techniques such as principles of SOLID, TDD (BDD) and has contributed to any API creation. We love detail-oriented people who use best practices to building (clean) code. Learn more and apply for the position on the link below.
 - Link: [https://pluga.co/trabalhe-conosco/](https://pluga.co/trabalhe-conosco)
