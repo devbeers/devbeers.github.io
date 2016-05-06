@@ -45,3 +45,12 @@ BankFacil is a Technology company. Our Engineering team develops solutions to he
 - Position: Data Scientist
 - Skills: Machine Learning / Statistics Model and Analysis / Databases (Relational and No-Relational)
 - Link: [Data Scientist job](https://www.bankfacil.com.br/institucional/seja-um-de-nos#op-76436-data-scientist)
+
+### [Pluga](https://pluga.co/)
+
+Pluga connects the web applications your company uses the most, empowering non-tech people to do amazing integrations, without the need of writing code. We use the power of the APIs to create an intelligent communication between them, helping these companies save money and time in daily routines.
+
+- Position: Experienced Ruby Developer - Freelancer
+- Skills:	Ruby / Solid / TDD(BDD) / Metaprogramming / API
+- Description: We are looking for a Ruby Developer freelancer with +3 years of experience to contribute on our Pluga API project. It is essential that this person has worked on other Ruby projects using techniques such as principles of SOLID, TDD (BDD) and has contributed to any API creation. We love detail-oriented people who uses the best practices to building (clean) code. Learn more and Apply to position at link below.
+- Link: [https://pluga.co/trabalhe-conosco/](https://pluga.co/trabalhe-conosco)
