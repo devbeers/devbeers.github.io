@@ -20,7 +20,7 @@ This is the devbeers job board. Have a job opening in your company? Make a [pull
 - Description: Awesome position at 'company', looking for a developer with X years of experience, to work on a project X, Y, Z. Contact us via xyx@company.com
 - Link: [http://example.org/amazing-job](http://example.org/amazing-job)
 -->
- 
+
 ### [ChefsClub](https://www.chefsclub.com.br/)
 
 - Position: Mobile Engineer
@@ -55,3 +55,27 @@ Pluga connects the web applications your company uses the most, empowering non-t
 - Skills:	Ruby / Solid / TDD(BDD) / Metaprogramming / API
 - Description: We are looking for a Ruby Developer freelancer with +3 years of experience to contribute on our Pluga API project. It is essential that this person has worked on other Ruby projects using techniques such as principles of SOLID, TDD (BDD) and has contributed to any API creation. We love detail-oriented people who use best practices to building (clean) code. Learn more and apply for the position on the link below.
 - Link: [https://pluga.co/trabalhe-conosco/](https://pluga.co/trabalhe-conosco)
+
+### [Codeminer42](http://www.codeminer42.com/)
+
+Are you searching for a company where you're treated as an adult, focusing your efforts on what really matters, without a manager checking your screen the whole time?
+
+Searching for a place where hardwork and commitment are recognized and rewarded?
+
+A place where your voice will be heard, and you're free to propose (and implement) enhancements in your project and the company?
+
+A place where you're free to work wearing slippers and dressed like Batman and no one will bother you (but we will ask for a photo to Instagram, of course)?
+
+You've found it!
+
+Codeminer 42 is searching for experienced Java web developers.
+
+Great workplace, with real chances of assuming international projects.
+
+For further information and apply, please send your curriculum to:
+
+[mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
+
+- Position: Java web developer
+- Skills: EJB3 / JMS / JBoss / Apache / Git / English (writing, reading and conversation)
+- Link: [mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
