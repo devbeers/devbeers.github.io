@@ -60,11 +60,11 @@ Pluga connects the web applications your company uses the most, empowering non-t
 
 Are you searching for a company where you're treated as an adult, focusing your efforts on what really matters, without a manager checking your screen the whole time?
 
-Searching for a place where hardwork and commitment are recognized and rewarded?
+Searching for a place where hard-work and commitment are recognized and rewarded?
 
 A place where your voice will be heard, and you're free to propose (and implement) enhancements in your project and the company?
 
-A place where you're free to work wearing slippers and dressed like Batman and no one will bother you (but we will ask for a photo to Instagram, of course)?
+A place where you're free to work wearing slippers and dressed like Batman and no one will bother you (but we will ask for an Instagram photo, of course)?
 
 You've found it!
 
@@ -72,10 +72,10 @@ Codeminer 42 is searching for experienced Java web developers.
 
 Great workplace, with real chances of assuming international projects.
 
-For further information and apply, please send your curriculum to:
+For further information and to apply, please send your curriculum to:
 
 [mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
 
-- Position: Java web developer
+- Position: Java Web Developer
 - Skills: EJB3 / JMS / JBoss / Apache / Git / English (writing, reading and conversation)
 - Link: [mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
