@@ -23,7 +23,7 @@ links:
   - title: Code of Conduct
     url: /codeofconduct
   - title: Jobs
-    url: /jobs.html
+    url: /jobs
   - title: Blog
     url: https://medium.com/devbeers-news
     external: true
@@ -36,6 +36,9 @@ links:
   - title: Facebook
     url: http://facebook.com/devbeers
     external: true
+  - title: Stickers
+    url: /stickers
+    
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
