@@ -9,9 +9,11 @@ image:
 ---
 
 ### Next Event
-* <a href="http://www.eventick.com.br/devbeers-ce-2" target="_blank">2nd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-ce-4__77944" target="_blank">4th edition</a>
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-ce-3__66917" target="_blank">3rd edition</a>
+* <a href="http://www.eventick.com.br/devbeers-ce-2" target="_blank">2nd edition</a>
 * <a href="http://www.eventick.com.br/devbeers-ce-1" target="_blank">1st edition</a>
 
 ### Local Organizers
