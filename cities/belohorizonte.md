@@ -9,9 +9,10 @@ image:
 ---
 
 ### Next Event
-* <a href="http://www.eventick.com.br/devbeers-bh-11" target="_blank">11th edition</a>
+* <a href="https://www.sympla.com.br/devbeers-bh-17__85307" target="_blank">17th edition</a>
 
 ### Past Events
+* <a href="http://www.eventick.com.br/devbeers-bh-11" target="_blank">11th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-10" target="_blank">10th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-9" target="_blank">9th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-8" target="_blank">8th edition</a>
