@@ -12,6 +12,11 @@ image:
 * <a href="https://www.sympla.com.br/devbeers-bh-17__85307" target="_blank">17th edition</a>
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-bh-16-edicao-frontltingtbh__80480" target="_blank">16th edition</a>
+* <a href="https://www.sympla.com.br/devbeers-bh-15__74458" target="_blank">15th edition</a>
+* <a href="https://www.sympla.com.br/devbeers-bh-14-e-gdg-bh__69239" target="_blank">14th edition</a>
+* <a href="https://www.sympla.com.br/devbeers-bh-13__60757" target="_blank">13th edition</a>
+* <a href="https://www.eventbrite.com/e/devbeers-bh-12a-tickets-24232870167" target="_blank">12th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-11" target="_blank">11th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-10" target="_blank">10th edition</a>
 * <a href="http://www.eventick.com.br/devbeers-bh-9" target="_blank">9th edition</a>
