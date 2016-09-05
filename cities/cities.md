@@ -14,5 +14,6 @@ image:
 * <a href="riodejaneiro.html">Rio de Janeiro</a>
 * <a href="fortaleza.html">Fortaleza</a>
 * <a href="campinas.html">Campinas</a>
+* <a href="novohamburgo.html">Novo Hamburgo</a>
 
 {% include new-editions.md %}
