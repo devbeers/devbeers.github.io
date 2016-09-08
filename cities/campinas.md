@@ -8,6 +8,13 @@ image:
   feature: beers.png
 ---
 
+### Next Event
+* <a href="https://www.sympla.com.br/devbeers-campinas---2-edicao__87488" target="_blank">2nd edition</a>
+
+### Past Events
+
+* <a href="https://www.sympla.com.br/devbeers-campinas-1-edicao__75964" target="_blank">1st edition</a>
+
 ### Local Organizers
 {% include organizers-sp-campinas.html %}
 

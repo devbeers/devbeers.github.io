@@ -6,7 +6,7 @@ image:
   feature: beers.png
 ---
 
-devbeers is an monthly event in multiple cities for __developers__ to __have some beer__, get some time away from the keyboard, and talk about your __favorite language, IDE or API__. 
+devbeers is an monthly event in multiple cities for __developers__ to __have some beer__, get some time away from the keyboard, and talk about your __favorite language, IDE or API__.
 
 <div style="text-align:center;">
 <h2>Our mission is to unite developers from all communities</h2>
@@ -23,6 +23,7 @@ Every month we'll be at a __different venue and a different date__, so be sure t
 * <a href="cities/belohorizonte.html">Belo Horizonte</a>
 * <a href="cities/riodejaneiro.html">Rio de Janeiro</a>
 * <a href="cities/fortaleza.html">Fortaleza</a>
+* <a href="cities/campinas.html">Campinas</a>
 
 {% include new-editions.md %}
 
