@@ -9,9 +9,10 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.sympla.com.br/devbeers-bh-17__85307" target="_blank">17th edition</a>
+* <a href="#" target="_blank">Coming soon.</a>
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-bh-17__85307" target="_blank">17th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-16-edicao-frontltingtbh__80480" target="_blank">16th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-15__74458" target="_blank">15th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-14-e-gdg-bh__69239" target="_blank">14th edition</a>
