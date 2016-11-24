@@ -6,7 +6,7 @@ image:
 feature: beers.png
 ---
 
-![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo.png )
+![devbeers logo]({{ site.github.url }}/images/logos/devbeers/devbeerslogo.png )
 
 ### Looking for some awesome work?
 

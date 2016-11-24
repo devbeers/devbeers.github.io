@@ -4,9 +4,9 @@
 
   <div>
     {% if page.image.feature %}
-    <div class="home featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})">
+    <div class="home featured-image" style="background-image: url({{ site.github.url }}/images/{{ page.image.feature }})">
     {% else %}
-    <div class="home featured-image" style="background-image: url({{ site.url }}/images/beers.png)">
+    <div class="home featured-image" style="background-image: url({{ site.github.url }}/images/beers.png)">
     {% endif %}
       <div class="header-content">
         <img src="/images/logos/devbeers/devbeers-white-transparent-1000x628.png" />

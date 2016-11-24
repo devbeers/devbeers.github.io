@@ -7,7 +7,7 @@ image:
   feature: beers.png
 ---
 
-![devbeers logo]({{ site.url }}/images/logos/devbeers/devbeerslogo-4096x3112.png)
+![devbeers logo]({{ site.github.url }}/images/logos/devbeers/devbeerslogo-4096x3112.png)
 
 ## Código de Conduta - Versão em Português
 
