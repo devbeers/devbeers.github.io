@@ -10,11 +10,11 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 120  }}{% else %}{{ page.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}">
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:url" content="{{ site.github.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
 
-<link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link href="{{ site.github.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -24,15 +24,15 @@
 <!-- Type -->
 <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
-<link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/entypo.css" media="all">
 
-<link href="{{ site.url }}/assets/css/classic-081711.css" rel="stylesheet" type="text/css">
+<link href="{{ site.github.url }}/assets/css/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
 </style>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ site.url }}/assets/css/i.css">
+<link rel="stylesheet" href="{{ site.github.url }}/assets/css/i.css">
 
 <!-- Fresh Squeezed jQuery -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -41,7 +41,7 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="{{ site.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="{{ site.github.url }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 <!-- Load Google Analytics -->
 <script src="/assets/js/googleanalytics.js"></script>
@@ -50,7 +50,7 @@
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
+<link rel="shortcut icon" href="{{ site.github.url }}/favicon.ico">
 </head>
 
 <div id="bump">
@@ -64,7 +64,7 @@
         <nav role="navigation">
           <ul>
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.github.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
           </ul>
         </nav>
