@@ -7,7 +7,7 @@ image:
   feature: beers.png
 ---
 
-![devbeers logo]({{ site.github.url }}/images/logos/devbeers/devbeerslogo-4096x3112.png)
+![devbeers logo](/images/logos/devbeers/devbeerslogo-4096x3112.png)
 
 ## Code of Conduct - English Version
 

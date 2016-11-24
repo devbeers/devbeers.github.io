@@ -6,7 +6,7 @@ image:
   feature: beers.png
 ---
 
-![devbeers logo]({{ site.github.url }}/images/logos/devbeers/devbeerslogo.png )
+![devbeers logo](/images/logos/devbeers/devbeerslogo.png )
 
 ### Checklist for running a devbeers
 
@@ -39,7 +39,7 @@ First of all, you're awesome! Thanks for helping spread the devbeers, and for he
 * Check-in people with <a href="http://www.eventick.com.br/" target="_blank">Eventick</a> / <a href="http://www.eventbrite.com/" target="_blank">Eventbrite</a> / <a href="https://eventioz.com/" target="_blank">Eventioz</a> (Website or app)
 * Take pictures (if possible hire photographer)
 * Talk to people who are alone and introduce them to others
-* After 1 hour from start of the event, gather everyone, introduce yourself and co-organizers, and thank everyone for coming. 
+* After 1 hour from start of the event, gather everyone, introduce yourself and co-organizers, and thank everyone for coming.
 * Pay for the bill
 
 ##### Post-event
