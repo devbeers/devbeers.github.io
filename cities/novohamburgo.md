@@ -9,10 +9,7 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.meetup.com/devbeers-nh/events/235697234/" target="_blank">Dev Beers NH 2nd edition</a>
-
-### Past Events
-* <a href="https://www.meetup.com/devbeers-nh/events/220672870/" target="_blank">Code Beers Novo Hamburgo (March/2015)</a>
+* <a href="https://www.meetup.com/devbeers-nh/events/235697234/" target="_blank">devbeers NH 2nd edition</a>
 
 ### Local Organizers
 {% include organizers-nh.html %}
