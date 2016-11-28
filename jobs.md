@@ -58,24 +58,20 @@ Pluga connects the web applications your company uses the most, empowering non-t
 
 ### [Codeminer42](http://www.codeminer42.com/)
 
-Are you searching for a company where you're treated as an adult, focusing your efforts on what really matters, without a manager checking your screen the whole time?
+Codeminer 42 is a Brazilian software boutique focused in delivering the best value for its customers. We started the operation at September, 2011 and so far we have expanded to 7 different cities in Brazil with the best professionals we can find.
 
-Searching for a place where hard-work and commitment are recognized and rewarded?
+Our specialty is Ruby on Rails web development and it's surrounding ecosystem - that includes cutting edge new technologies -, we are very experienced in delivering all kinds of tech products such as e-commerce, e-learning, social networks, content management systems, processes automation.
 
-A place where your voice will be heard, and you're free to propose (and implement) enhancements in your project and the company?
+- Position: Back-end Engineer
+    + Skills: Ruby / Elixir / Javascript(Node.js) / Java / Git / TDD(BDD) / English (writing, reading and conversation)
+    + Description: We're looking for experienced (3 years, at least) back-end developers who masters one or more programming languages. English proficiency is required as well as automated tests.
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
 
-A place where you're free to work wearing slippers and dressed like Batman and no one will bother you (but we will ask for an Instagram photo, of course)?
+- Position: Front-end Engineer
+    + Skills: HTML / CSS / Javascript / Git / TDD(BDD) / English (writing, reading and conversation)
+    + Description: We're looking for experienced front-end developers who knows how to develop rich interfaces and using bleeding edge web technologies. Our client projects are built with Angular.js, Backbone.js, React.js and other frameworks and libraries. English proficiency is required. Front-end tests are a plus.
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
 
-You've found it!
-
-Codeminer 42 is searching for experienced Java web developers.
-
-Great workplace, with real chances of assuming international projects.
-
-For further information and to apply, please send your curriculum to:
-
-[mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
-
-- Position: Java Web Developer
-- Skills: EJB3 / JMS / JBoss / Apache / Git / English (writing, reading and conversation)
-- Link: [mauricio.klein@codeminer42.com](mauricio.klein@codeminer42.com)
+- Position: Junior Web Developer / Internship Program
+    + Skills: Basic web development skills / English (writing, reading and conversation)
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
