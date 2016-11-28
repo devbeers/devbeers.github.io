@@ -21,6 +21,26 @@ This is the devbeers job board. Have a job opening in your company? Make a [pull
 - Link: [http://example.org/amazing-job](http://example.org/amazing-job)
 -->
 
+### [Codeminer42](http://www.codeminer42.com/)
+
+Codeminer 42 is a Brazilian software boutique focused in delivering the best value for its customers. We started the operation at September, 2011 and so far we have expanded to 7 different cities in Brazil with the best professionals we can find.
+
+Our specialty is Ruby on Rails web development and it's surrounding ecosystem - that includes cutting edge new technologies -, we are very experienced in delivering all kinds of tech products such as e-commerce, e-learning, social networks, content management systems, processes automation.
+
+- Position: Back-end Engineer
+    + Skills: Ruby / Elixir / Javascript(Node.js) / Java / Git / TDD(BDD) / English (writing, reading and conversation)
+    + Description: We're looking for experienced (3 years, at least) back-end developers who masters one or more programming languages. English proficiency is required as well as automated tests.
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
+
+- Position: Front-end Engineer
+    + Skills: HTML / CSS / Javascript / Git / TDD(BDD) / English (writing, reading and conversation)
+    + Description: We're looking for experienced front-end developers who knows how to develop rich interfaces and using bleeding edge web technologies. Our client projects are built with Angular.js, Backbone.js, React.js and other frameworks and libraries. English proficiency is required. Front-end tests are a plus.
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
+
+- Position: Junior Web Developer / Internship Program
+    + Skills: Basic web development skills / English (writing, reading and conversation)
+    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
+
 ### [ChefsClub](https://www.chefsclub.com.br/)
 
 - Position: Mobile Engineer
@@ -55,23 +75,3 @@ Pluga connects the web applications your company uses the most, empowering non-t
 - Skills:	Ruby / Solid / TDD(BDD) / Metaprogramming / API
 - Description: We are looking for a Ruby Developer freelancer with +3 years of experience to contribute on our Pluga API project. It is essential that this person has worked on other Ruby projects using techniques such as principles of SOLID, TDD (BDD) and has contributed to any API creation. We love detail-oriented people who use best practices to building (clean) code. Learn more and apply for the position on the link below.
 - Link: [https://pluga.co/trabalhe-conosco/](https://pluga.co/trabalhe-conosco)
-
-### [Codeminer42](http://www.codeminer42.com/)
-
-Codeminer 42 is a Brazilian software boutique focused in delivering the best value for its customers. We started the operation at September, 2011 and so far we have expanded to 7 different cities in Brazil with the best professionals we can find.
-
-Our specialty is Ruby on Rails web development and it's surrounding ecosystem - that includes cutting edge new technologies -, we are very experienced in delivering all kinds of tech products such as e-commerce, e-learning, social networks, content management systems, processes automation.
-
-- Position: Back-end Engineer
-    + Skills: Ruby / Elixir / Javascript(Node.js) / Java / Git / TDD(BDD) / English (writing, reading and conversation)
-    + Description: We're looking for experienced (3 years, at least) back-end developers who masters one or more programming languages. English proficiency is required as well as automated tests.
-    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
-
-- Position: Front-end Engineer
-    + Skills: HTML / CSS / Javascript / Git / TDD(BDD) / English (writing, reading and conversation)
-    + Description: We're looking for experienced front-end developers who knows how to develop rich interfaces and using bleeding edge web technologies. Our client projects are built with Angular.js, Backbone.js, React.js and other frameworks and libraries. English proficiency is required. Front-end tests are a plus.
-    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
-
-- Position: Junior Web Developer / Internship Program
-    + Skills: Basic web development skills / English (writing, reading and conversation)
-    + Email: [paulodiovani@codeminer42.com](mailto:paulodiovani@codeminer42.com)
