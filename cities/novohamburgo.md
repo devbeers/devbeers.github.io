@@ -8,7 +8,11 @@ image:
   feature: novohamburgo.jpg
 ---
 
+
 ### Next Event
+* ERROR 404	(Sorry, no future events at the moment)
+
+### Past Events
 * <a href="https://www.meetup.com/devbeers-nh/events/235697234/" target="_blank">devbeers NH 2nd edition</a>
 
 ### Local Organizers

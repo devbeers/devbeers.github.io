@@ -9,9 +9,11 @@ image:
 ---
 
 ### Next Event
-* <a href="#" target="_blank">Coming soon.</a>
+* ERROR 404	(Sorry, no future events at the moment)
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-bh-19__97465" target="_blank">19th edition</a>
+* <a href="https://www.sympla.com.br/devbeers-bh-18__91337">18th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-17__85307" target="_blank">17th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-16-edicao-frontltingtbh__80480" target="_blank">16th edition</a>
 * <a href="https://www.sympla.com.br/devbeers-bh-15__74458" target="_blank">15th edition</a>

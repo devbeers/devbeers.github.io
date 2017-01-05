@@ -9,9 +9,11 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers-rj-6" target="_blank">6th edition</a>
+* ERROR 404	(Sorry, no future events at the moment)
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-rj-7__69144" target="_blank">7th edition</a>
+* <a href="https://www.eventick.com.br/devbeers-rj-6" target="_blank">6th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-5" target="_blank">5th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-4" target="_blank">4th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-3" target="_blank">3rd edition</a>

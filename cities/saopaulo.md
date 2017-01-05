@@ -9,9 +9,19 @@ image:
 ---
 
 ### Next Event
-* <a href="http://www.eventick.com.br/devbeers-sp-24" target="_blank">24th edition</a>
+* ERROR 404	(Sorry, no future events at the moment)
 
 ### Past Events
+* <a href="https://www.sympla.com.br/devbeers-sp-32__97464" target="_blank">32rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-31---o-repeteco__92486" target="_blank">31rd repeteco edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-31__91416" target="_blank">31rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-30__84817" target="_blank">30rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-29__74343" target="_blank">29rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-28__74344" target="_blank">28rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-27__67016" target="_blank">27rd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-sp-26__65518" target="_blank">26rd edition</a>
+* <a href="https://www.eventbrite.com/e/devbeers-sp-25a-tickets-24014475944" target="_blank">25rd edition</a>
+* <a href="http://www.eventick.com.br/devbeers-sp-24" target="_blank">24rd edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-23" target="_blank">23rd edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-22" target="_blank">22nd edition</a>
 * <a href="http://www.eventick.com.br/devbeers-sp-21" target="_blank">21st edition</a>
