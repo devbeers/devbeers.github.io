@@ -15,5 +15,6 @@ image:
 * <a href="fortaleza.html">Fortaleza</a>
 * <a href="campinas.html">Campinas</a>
 * <a href="novohamburgo.html">Novo Hamburgo</a>
+* <a href="campogrande.html">Campo Grande</a>
 
 {% include new-editions.md %}
