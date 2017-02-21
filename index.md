@@ -19,6 +19,7 @@ Want to talk about Ruby, Python, Javascript, Node, Go, C#, PHP, Java, Objective-
 Every month we'll be at a __different venue and a different date__, so be sure to keep your eyes out. Follow us on <a href="https://twitter.com/devbeers" target="_blank">Twitter</a>, like us on <a href="https://www.facebook.com/devbeers" target="_blank">Facebook</a> or sign up to our mailing list to keep up with the beers.
 
 ### Next Events
+* <a href="cities/campogrande.html">Campo Grande</a>
 * <a href="cities/belohorizonte.html">Belo Horizonte</a>
 * <a href="cities/campinas.html">Campinas</a>
 * <a href="cities/fortaleza.html">Fortaleza</a>

@@ -9,7 +9,7 @@ image:
 ---
 
 ### Next Event
-* <a href="#" target="_blank">3nd edition</a>
+* <a href="https://www.sympla.com.br/devbeers-cg-3__119947" target="_blank">3nd edition</a>
 
 ### Past Events
 * <a href="https://www.sympla.com.br/devbeers-cg-2__107048" target="_blank">2nd edition</a>
