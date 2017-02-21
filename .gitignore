@@ -4,3 +4,4 @@ config.codekit
 .sass-cache
 .idea
 Gemfile.lock
+.ruby-gemset
