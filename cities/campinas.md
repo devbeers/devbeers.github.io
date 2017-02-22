@@ -9,10 +9,10 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.sympla.com.br/devbeers-campinas---2-edicao__87488" target="_blank">2nd edition</a>
+* ERROR 404	(Sorry, no future events at the moment)
 
 ### Past Events
-
+* <a href="https://www.sympla.com.br/devbeers-campinas---2-edicao__87488" target="_blank">2nd edition</a>
 * <a href="https://www.sympla.com.br/devbeers-campinas-1-edicao__75964" target="_blank">1st edition</a>
 
 ### Local Organizers
