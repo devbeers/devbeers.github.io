@@ -9,9 +9,10 @@ image:
 ---
 
 ### Next Event
-* <a href="https://www.eventick.com.br/devbeers-rj-6" target="_blank">6th edition</a>
+<p>To be defined! Follow us on Twitter for more informations</p>
 
 ### Past Events
+* <a href="https://www.eventick.com.br/devbeers-rj-6" target="_blank">6th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-5" target="_blank">5th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-4" target="_blank">4th edition</a>
 * <a href="https://www.eventick.com.br/devbeers-rj-3" target="_blank">3rd edition</a>
